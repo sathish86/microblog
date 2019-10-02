@@ -1,1 +1,2 @@
-export FLASK_APP=microblog.py
+# MyApp
+### export FLASK_APP=microblog.py
